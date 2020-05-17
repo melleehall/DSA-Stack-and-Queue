@@ -30,3 +30,26 @@ class Stack {
         return node.data;
     }
 }
+
+
+
+// 1. Create a stack class
+// Walk through the Stack class in the curriculum and understand it well. 
+// Then write a Stack class with its core functions (push, pop) from scratch.
+
+// Create a stack called starTrek and add Kirk, Spock, McCoy, and Scotty 
+// to the stack.
+
+
+// function makeStarTrekStack() {
+//     const starTrekStack = new Stack();
+//     const names = ['Kirk', 'Spock', 'McCoy', 'Spotty']
+//     for (let i = 0; i < names.length; i++) {
+//       starTrekStack.push(names[i])
+//     }
+//     return starTrekStack;
+//   }
+  
+  
+  
+//   makeStarTrekStack()
