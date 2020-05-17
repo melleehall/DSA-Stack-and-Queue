@@ -1,3 +1,7 @@
+// 6. Create a queue using Singly linked list
+// Walk through the Queue class in the curriculum and understand it well. Then write a Queue class with its core functions (enqueue(), dequeue()) from scratch.
+
+
 class _Node {
     constructor(value) {
         this.value = value;
